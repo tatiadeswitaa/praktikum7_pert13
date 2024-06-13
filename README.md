@@ -1,6 +1,6 @@
-|Nama |_Muhamad Jati Wasesa_|
+|Nama |_Tatia Deswita Anggraeni_|
 | :- | :- |
-|**Nim** |_312210481_|
+|**Nim** |_312210478_|
 |**Kelas** |_TI.22.A.5_|
 |**Mata Kuliah**|_Pemgraman Web 2_|
 |**Tugas** |_Praktikum 7_|
