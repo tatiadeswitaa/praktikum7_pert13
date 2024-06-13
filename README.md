@@ -1,1 +1,0 @@
-# praktikum7_pert13
